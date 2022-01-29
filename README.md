@@ -8,7 +8,7 @@ App para cotações de câmbio em diversas moedas. Inclui função "trocar", par
 ## Visão Geral
 
 
-# Projeto 2: 
+# [Projeto 2: Tela de Compra de Ingressos](https://github.com/a-gva/compra-ingressos-cinema)
 
 ## Objetivo
 
