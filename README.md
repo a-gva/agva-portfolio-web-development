@@ -1,6 +1,6 @@
 # agva-portfolio-web-development
 
-# [Projeto 1: Calculadora de Câmbio](https://github.com/a-gva?tab=repositories#:~:text=calculadora%2Dde%2Dcambio)
+# [Projeto 1: Calculadora de Câmbio](https://github.com/a-gva/calculadora-de-cambio)
 
 ## Objetivo
 App para cotações de câmbio em diversas moedas. Inclui função "trocar", para alterar entre a moeda base e a moeda de câmbio.
