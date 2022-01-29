@@ -1,4 +1,4 @@
-# agva-portfolio-web-development
+![image](https://github.com/a-gva/agva-portfolio-web-development/blob/main/portfolio-agva.png)
 
 # [Projeto 1: Calculadora de Câmbio](https://github.com/a-gva/calculadora-de-cambio)
 
