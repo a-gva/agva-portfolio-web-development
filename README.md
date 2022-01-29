@@ -2,35 +2,36 @@
 
 # [Projeto 1: Calculadora de Câmbio](https://github.com/a-gva/calculadora-de-cambio)
 
-## Objetivo
 App para cotações de câmbio em diversas moedas. Inclui função "trocar", para alterar entre a moeda base e a moeda de câmbio.
 
-## Visão Geral
+## Recursos utilizados
+
+HTML, CSS e JS.
 
 
 # [Projeto 2: Tela de Compra de Ingressos](https://github.com/a-gva/compra-ingressos-cinema)
 
-## Objetivo
+## Recursos utilizados
 
-## Visão Geral
-
-
-# Projeto 3: 
-
-## Objetivo
-
-## Visão Geral
+HTML, CSS e JS.
 
 
-# Projeto 4: 
+# [Projeto 3: App Pessoas Ricas - DOM Array Methods](https://github.com/a-gva/pessoas-ricas-DOM-array-methods)
 
-## Objetivo
+## Recursos utilizados
 
-## Visão Geral
+HTML, CSS e JS.
 
 
-# Projeto 5: 
+# [Projeto 4: Script Validador de Formulário](https://github.com/a-gva/form-validator)
 
-## Objetivo
+## Recursos utilizados
 
-## Visão Geral
+HTML, CSS e JS.
+
+
+# [Projeto 5: ](https://github.com/a-gva/video-player-for-web)
+
+## Recursos utilizados
+
+HTML, CSS e JS.
